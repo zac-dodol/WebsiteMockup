@@ -4,6 +4,7 @@ export const configuration = {
     headingtext:
       'UI/UX Designer & Full Stack Developer',
     buttontext: 'CV & Resume',
-    buttonlink: '\home'
+    // buttonlink: '\home'
+    buttonlink: 'https://google.com'
   }
 };
