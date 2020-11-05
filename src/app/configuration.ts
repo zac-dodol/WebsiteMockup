@@ -5,6 +5,6 @@ export const configuration = {
       'UI/UX Designer & Full Stack Developer',
     buttontext: 'CV & Resume',
     // buttonlink: '\home'
-    buttonlink: 'https://google.com'
+    buttonlink: 'http://saidinatravel.com/resumecv.html'
   }
 };
