@@ -2241,6 +2241,7 @@ blockquote {
 
     #header.nav-solid aside {
         top: 20px;
+        left: 0;
     }
 
     #header aside ul {
